@@ -6,7 +6,9 @@
 ### Exercise
 
 <strong>Calcula el Indice de la masa corporal a partir de la estatura y el peso del individuo:</strong>
+<hr>
 
+<br>
 Aplica las siguientes normas:
 
 Etapa 1:
@@ -16,7 +18,7 @@ Calculo del Indice de masa Corporal (IMC).
 - Solicita el peso en kiñogramos.
 - Mediante el método Math.pow() se calcula la potencia del valor de la variable sizePerson (Estatura).
 - Se define una variable tipo double para recibir el valor del calculo del IMC.
-- Para facilitar la presentación del indicador reducioendo sus decimales a maximo dos, se utiliza el metodo Math.round().
+- Para facilitar la presentación del indicador reduciendo sus decimales a maximo dos, se utiliza el metodo Math.round().
 
 Etapa 2
 Clasificación del IMC según la tabla de criterios.
