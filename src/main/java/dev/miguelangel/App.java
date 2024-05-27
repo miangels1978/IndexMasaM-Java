@@ -21,7 +21,7 @@ public final class App {
         Scanner capt = new Scanner(System.in);
                
         System.out.println("Ingresa tu altura en centimetros");
-        float sizePerson = capt.nextInt();
+        float sizePerson = capt.nextInt(); capt.nextLine();
         sizePerson = sizePerson/100;
         System.out.println("Ingresa tu peso en kilogramos (Kg):");
         float weightPerson = capt.nextInt();
